@@ -7,6 +7,9 @@
   font-variation-settings:
     "wdth" 100;
 }
+.header{
+    background-image: url(../);
+}
 nav{
     display: flex;
     justify-content: space-between;
@@ -29,4 +32,14 @@ nav ul li{
 .title{
     font-size: 34px;
     color: #4E47FF;
+}
+.text-center{
+    text-align: center;
+}
+.title-2{
+    font-size: 65px;
+    font-weight: bold;
+}
+.margin{
+    margin: 158px 117px;
 }
