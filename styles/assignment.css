@@ -30,6 +30,9 @@ nav ul li{
     border-radius: 10px;
     
 }
+.btn:hover{
+    background-color: aqua;
+}
 .title{
     font-size: 34px;
     color: #4E47FF;
@@ -46,6 +49,9 @@ nav ul li{
 }
 .btn-2{
     margin-bottom: 130px;
+}
+.btn-2:hover{
+    background-color: aqua;
 }
 .title-3{
     font-size: 42px;
@@ -193,6 +199,9 @@ main{
 .btn-3{
     margin: 20px;
 }
+.btn-3:hover{
+    background-color: aqua;
+}
 .img-2{
     max-width:840px ;
     max-height: 364px;
@@ -237,26 +246,21 @@ form, form fieldset {
     border: none;
     outline: none;
 }
-
-    
-
-
-
-
+   
 .btn-4{
 display: inline-block;
 padding: 12px 20px;
 cursor: pointer;
 max-width: 497px;
  max-height:62px ;
- width: 100%;
+  width: 100%; 
 }
-
-  
-  .lflex{
+.btn-4:hover{
+    background-color: aqua;
+}
+ .lflex{
     display: flex;
     justify-content: space-around;
-    
   }
   .lsec{
     text-align: center;
