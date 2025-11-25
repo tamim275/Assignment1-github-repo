@@ -105,9 +105,6 @@ main{
     display: flex;
     justify-content: space-around;
     margin: 0 auto;
-    
-
-
 
 }
 .iteam1{
@@ -175,10 +172,6 @@ main{
 .gap2{
      max-width: 1140px;
      max-height: 306px;
-     /* padding: 10px 142px 100px 142px; */
-     /* margin: 119px 10px 137px 10px ; */
-    /* background-color: #4E47FF10; */
-    /* border-radius: 15px; */ */
 }
 .title-7{
     font-size: 50px;
@@ -207,3 +200,75 @@ main{
     margin: 0 auto;
     display: block;
 }
+.title-8{
+    font-size: 97px;
+    font-weight: bold;
+}
+.sec-3{
+max-width: 1140px;
+margin: 91px auto;
+display: flex;
+gap: 50px;
+}
+
+.form-container{
+
+}
+
+form .form label{
+display: block;
+margin-bottom: 6px;
+font-size: 16px;
+}
+
+.sec-3 input[type="text"],
+.sec-3 input[type="email"],
+.sec-3 textarea{
+width: 100%;
+max-width: 497px;
+border-radius: 5px;
+padding: 15px 20px;
+margin-bottom: 20px;
+border: 1px solid #ccc;
+font-size: 15px;
+}
+
+form, form fieldset {
+    border: none;
+    outline: none;
+}
+
+    
+
+
+
+
+.btn-4{
+display: inline-block;
+padding: 12px 20px;
+cursor: pointer;
+max-width: 497px;
+ max-height:62px ;
+ width: 100%;
+}
+
+  
+  .lflex{
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  .lsec{
+    text-align: center;
+    max-width: 531px;
+    max-height: 231px;
+    margin: 104px 455px 103px 454px;
+  }
+  .ltitle{
+    font-size: 100px;
+    color: #4E47FF;
+  }
+  .lp{
+    color: #8987A1;
+  }
+  
